@@ -38,16 +38,16 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103507</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The life and times of a wealthy family in nineteenth century northern Germany.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Buddenbrooks have worked hard to make their name, and the eponymous firm of Johann Buddenbrook is widely known for its trading prowess. But despite trappings like the newly-purchased and imposing town house on Meng Street, under the surface the cracks are showing: Johann’s first son isn’t living up to the status the family desires, and there are more problems to come.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Buddenbrooks&lt;/i&gt; is a biographical novel spanning over forty years and four generations, and charts the dwindling fortunes of the Buddenbrooks through their lives in an unnamed north German town, albeit one heavily modelled on &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann’s&lt;/a&gt; hometown of Lübeck. It was Mann’s first novel and was published when he was just twenty-six, following a period of heavy research into the intricacies of the Lübecker bourgeoisie of the mid-nineteenth-century. The critical reception was exceptionally positive, leading later to a Nobel Prize in Literature for Mann which, unusually, specifically referenced &lt;i&gt;Buddenbrooks&lt;/i&gt; as the principal reason for the award. Presented here is the 1924 translation by Helen Tracy Lowe-Porter.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72961</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/72962</dc:source>
 		<dc:source>https://archive.org/details/buddenbrooks0001mann</dc:source>
 		<dc:source>https://archive.org/details/buddenbrooks0002mann</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Buddenbrooks</meta>
