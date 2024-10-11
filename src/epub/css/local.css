@@ -71,3 +71,10 @@ p span.i1{
 #chapter-1-6 > blockquote:first-of-type{
 	font-style: italic;
 }
+
+#chapter-3-10 > blockquote,
+#chapter-4-1 > blockquote,
+#chapter-5-7 > blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
