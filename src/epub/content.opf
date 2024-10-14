@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-14T18:34:24Z</dc:date>
+		<meta property="dcterms:modified">2024-10-14T18:34:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,18 +38,18 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103507</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The life and times of a wealthy family in nineteenth century northern Germany.</dc:description>
+		<dc:description id="description">A grand family tries to cling to wealth and power in nineteenth century northern Germany.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Buddenbrooks have worked hard to make their name, and the eponymous firm of Johann Buddenbrook is widely known for its trading prowess. But despite trappings like the newly-purchased and imposing town house on Meng Street, under the surface the cracks are showing: Johann’s first son isn’t living up to the status the family desires, and there are more problems to come.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Buddenbrooks&lt;/i&gt; is a biographical novel spanning over forty years and four generations, and charts the dwindling fortunes of the Buddenbrooks through their lives in an unnamed north German town, albeit one heavily modelled on &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann’s&lt;/a&gt; hometown of Lübeck. It was Mann’s first novel and was published when he was just twenty-six, following a period of heavy research into the intricacies of the Lübecker bourgeoisie of the mid-nineteenth-century. The critical reception was exceptionally positive, leading later to a Nobel Prize in Literature for Mann which, unusually, specifically referenced &lt;i&gt;Buddenbrooks&lt;/i&gt; as the principal reason for the award. Presented here is the 1924 translation by Helen Tracy Lowe-Porter.&lt;/p&gt;
+			&lt;p&gt;The Buddenbrooks have worked hard to make their name, and the eponymous firm of Johann Buddenbrook is widely known for its trading prowess. But despite trappings like an imposing town house on Meng Street, under the surface the cracks are showing: Johann’s first son isn’t living up to the status the family desires, and there are more problems to come.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Buddenbrooks&lt;/i&gt; is a biographical novel spanning over forty years and four generations, and charts the dwindling fortunes of the Buddenbrooks through their lives in an unnamed north German town, albeit one heavily modeled on &lt;a href="https://standardebooks.org/ebooks/thomas-mann"&gt;Thomas Mann’s&lt;/a&gt; hometown of Lübeck. It was Mann’s first novel and was published when he was just twenty-six, following a period of heavy research into the intricacies of the Lübecker bourgeoisie of the mid-nineteenth-century. The critical reception was exceptionally positive, eventually leading to a Nobel Prize in Literature for Mann which, unusually, specifically referenced &lt;i&gt;Buddenbrooks&lt;/i&gt; as the principal reason for the award.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72961</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/72962</dc:source>
 		<dc:source>https://archive.org/details/buddenbrooks0001mann</dc:source>
 		<dc:source>https://archive.org/details/buddenbrooks0002mann</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">234439</meta>
+		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Buddenbrooks</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-mann_buddenbrooks_h-t-lowe-porter</meta>
 		<dc:creator id="author">Thomas Mann</dc:creator>
@@ -89,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
