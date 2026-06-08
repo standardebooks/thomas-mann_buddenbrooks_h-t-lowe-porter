@@ -41,7 +41,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">81</meta>
+		<meta property="group-position" refines="#collection-1">83</meta>
 		<dc:description id="description">A grand family tries to cling to wealth and power in nineteenth century northern Germany.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The Buddenbrooks have worked hard to make their name, and the eponymous firm of Johann Buddenbrook is widely known for its trading prowess. But despite trappings like an imposing town house on Meng Street, under the surface the cracks are showing: Johann’s first son isn’t living up to the status the family desires, and there are more problems to come.&lt;/p&gt;
