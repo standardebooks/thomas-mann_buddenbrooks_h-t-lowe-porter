@@ -68,7 +68,7 @@
 		<dc:contributor id="translator">H. T. Lowe-Porter</dc:contributor>
 		<meta property="file-as" refines="#translator">Lowe-Porter, H. T.</meta>
 		<meta property="schema:alternateName" refines="#translator">Helen Tracy Lowe-Porter</meta>
-		<link href="https://en.wikipedia.org/wiki/Helen_Tracy_Lowe-Porter" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/H._T._Lowe-Porter" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50040385.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wfw</meta>
